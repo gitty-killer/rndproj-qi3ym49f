@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-qi3ym49f"",
+  ""goal"": ""report generator for content moderation"",
+  ""language"": ""go"",
+  ""template"": ""go-service""
+}
