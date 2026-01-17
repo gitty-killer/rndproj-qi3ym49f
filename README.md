@@ -1,4 +1,2 @@
-# rndproj-qi3ym49f
-
-Random python project for tools.
-
+# rndproj-qi3ym49f\n\nSmall log summarizer tool.\n
+New-FileDef
